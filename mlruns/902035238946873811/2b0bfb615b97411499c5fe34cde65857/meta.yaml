@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/902035238946873811/2b0bfb615b97411499c5fe34cde65857/artifacts
+end_time: 1753542234844
+entry_point_name: ''
+experiment_id: '902035238946873811'
+lifecycle_stage: active
+run_id: 2b0bfb615b97411499c5fe34cde65857
+run_name: enthused-ape-229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753542234755
+status: 3
+tags: []
+user_id: Krish

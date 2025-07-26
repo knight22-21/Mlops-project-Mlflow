@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/902035238946873811/71f8629af73547d8b56966fb367a2d51/artifacts
+end_time: 1753542234603
+entry_point_name: ''
+experiment_id: '902035238946873811'
+lifecycle_stage: active
+run_id: 71f8629af73547d8b56966fb367a2d51
+run_name: treasured-cub-387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753542234519
+status: 3
+tags: []
+user_id: Krish

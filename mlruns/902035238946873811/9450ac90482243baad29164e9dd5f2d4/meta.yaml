@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/902035238946873811/9450ac90482243baad29164e9dd5f2d4/artifacts
+end_time: 1753542234241
+entry_point_name: ''
+experiment_id: '902035238946873811'
+lifecycle_stage: active
+run_id: 9450ac90482243baad29164e9dd5f2d4
+run_name: judicious-donkey-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753542234153
+status: 3
+tags: []
+user_id: Krish

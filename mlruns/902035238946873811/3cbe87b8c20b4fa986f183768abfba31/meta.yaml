@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/902035238946873811/3cbe87b8c20b4fa986f183768abfba31/artifacts
+end_time: 1753542240038
+entry_point_name: ''
+experiment_id: '902035238946873811'
+lifecycle_stage: active
+run_id: 3cbe87b8c20b4fa986f183768abfba31
+run_name: melodic-bear-866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753542228024
+status: 3
+tags: []
+user_id: Krish

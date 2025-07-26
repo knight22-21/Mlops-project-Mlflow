@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/902035238946873811/60efb05c37de49a29ca652f7a25d8763/artifacts
+end_time: 1753542234723
+entry_point_name: ''
+experiment_id: '902035238946873811'
+lifecycle_stage: active
+run_id: 60efb05c37de49a29ca652f7a25d8763
+run_name: bustling-fish-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753542234636
+status: 3
+tags: []
+user_id: Krish

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/902035238946873811/b29aa5beb4ed4265a9120a9ab071d788/artifacts
+end_time: 1753542234361
+entry_point_name: ''
+experiment_id: '902035238946873811'
+lifecycle_stage: active
+run_id: b29aa5beb4ed4265a9120a9ab071d788
+run_name: learned-swan-435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753542234274
+status: 3
+tags: []
+user_id: Krish

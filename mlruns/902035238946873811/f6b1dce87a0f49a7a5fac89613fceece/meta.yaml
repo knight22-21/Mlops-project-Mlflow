@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/902035238946873811/f6b1dce87a0f49a7a5fac89613fceece/artifacts
+end_time: 1753542234480
+entry_point_name: ''
+experiment_id: '902035238946873811'
+lifecycle_stage: active
+run_id: f6b1dce87a0f49a7a5fac89613fceece
+run_name: rare-sow-304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753542234393
+status: 3
+tags: []
+user_id: Krish

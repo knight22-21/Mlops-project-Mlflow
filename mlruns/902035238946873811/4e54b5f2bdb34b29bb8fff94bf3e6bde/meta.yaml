@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/902035238946873811/4e54b5f2bdb34b29bb8fff94bf3e6bde/artifacts
+end_time: 1753542233996
+entry_point_name: ''
+experiment_id: '902035238946873811'
+lifecycle_stage: active
+run_id: 4e54b5f2bdb34b29bb8fff94bf3e6bde
+run_name: bouncy-steed-724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753542233887
+status: 3
+tags: []
+user_id: Krish

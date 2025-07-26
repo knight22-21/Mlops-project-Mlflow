@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/902035238946873811/25c0c63442724382b3b995ccde7fb2d9/artifacts
+end_time: 1753542234120
+entry_point_name: ''
+experiment_id: '902035238946873811'
+lifecycle_stage: active
+run_id: 25c0c63442724382b3b995ccde7fb2d9
+run_name: sincere-newt-902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753542234031
+status: 3
+tags: []
+user_id: Krish
