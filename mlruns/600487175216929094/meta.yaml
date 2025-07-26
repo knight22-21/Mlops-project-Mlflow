@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/600487175216929094
+creation_time: 1753531888927
+experiment_id: '600487175216929094'
+last_update_time: 1753531888927
+lifecycle_stage: active
+name: Rainfall Prediction - rf

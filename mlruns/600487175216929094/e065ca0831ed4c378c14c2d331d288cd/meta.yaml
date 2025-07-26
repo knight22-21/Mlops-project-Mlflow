@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/600487175216929094/e065ca0831ed4c378c14c2d331d288cd/artifacts
+end_time: 1753531894812
+entry_point_name: ''
+experiment_id: '600487175216929094'
+lifecycle_stage: active
+run_id: e065ca0831ed4c378c14c2d331d288cd
+run_name: unruly-crab-677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753531889154
+status: 3
+tags: []
+user_id: Krish
