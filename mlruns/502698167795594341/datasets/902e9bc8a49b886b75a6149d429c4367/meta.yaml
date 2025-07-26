@@ -1,0 +1,9 @@
+digest: e1e01761
+name: dataset
+profile: '{"features_shape": [730, 11], "features_size": 8030, "features_nbytes":
+  64240}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 11]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "Krish", "mlflow.source.name": "src/pipeline-xg.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "f2668c4bc9d6a9594efbe7dd7be245dd3e46b2b9"}}'
+source_type: code

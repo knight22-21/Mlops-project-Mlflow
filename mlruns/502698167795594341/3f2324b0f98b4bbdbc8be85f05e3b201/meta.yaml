@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/502698167795594341/3f2324b0f98b4bbdbc8be85f05e3b201/artifacts
+end_time: 1753537787037
+entry_point_name: ''
+experiment_id: '502698167795594341'
+lifecycle_stage: active
+run_id: 3f2324b0f98b4bbdbc8be85f05e3b201
+run_name: welcoming-snail-512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753537774911
+status: 3
+tags: []
+user_id: Krish

@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/502698167795594341
+creation_time: 1753537769750
+experiment_id: '502698167795594341'
+last_update_time: 1753537769750
+lifecycle_stage: active
+name: Rainfall Prediction - xgboost

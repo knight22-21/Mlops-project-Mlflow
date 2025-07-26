@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/502698167795594341/2e11ae5775b34c4fafd102567dff0d46/artifacts
+end_time: 1753538124207
+entry_point_name: ''
+experiment_id: '502698167795594341'
+lifecycle_stage: active
+run_id: 2e11ae5775b34c4fafd102567dff0d46
+run_name: gregarious-mare-330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753538115033
+status: 3
+tags: []
+user_id: Krish
